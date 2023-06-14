@@ -2,7 +2,9 @@ body {
     background: rgb(72, 72, 246);
     font:normal 15pt Arial;
 }
+
 header {
+    color: white;
     text-align: center;
 }
 
